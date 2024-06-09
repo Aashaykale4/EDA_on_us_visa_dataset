@@ -5,14 +5,10 @@
 ## Dataset
 - The US Visa dataset contains comprehensive information about visa applications submitted to the United States government. It includes details about the applicants, their employers, job titles, application outcomes, and other relevant attributes.
 ## Features
-- TRIP_ID: Unique identifier for each trip.
-- TRAVELER_ID: Unique identifier for each traveler.
-- DESTINATION: Travel destination (city and country).
-- TRIP_START_DATE: Start date of the trip.
-- TRIP_END_DATE: End date of the trip.
-- TRAVEL_MODE: Mode of transportation used for the trip (e.g., Air, Train, Car).
-- ACCOMMODATION_TYPE: Type of accommodation used (e.g., Hotel, Hostel, Airbnb).
-- TRIP_COST: Total cost of the trip.
-- PURPOSE: Purpose of the trip (e.g., Business, Leisure, Education).
-- AGE: Age of the traveler.
-- GENDER: Gender of the traveler.
+- add_these_pw_job_title_9089     
+- agent_city                       
+- agent_firm_name                  
+- agent_state                     
+- application_type                 
+- many more ...  
+
